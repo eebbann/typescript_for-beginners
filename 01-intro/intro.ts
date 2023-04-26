@@ -8,3 +8,4 @@ console.log('pop it')
 // type tsc filename.ts(intro.ts) 
 //press enter to continue
 
+//types script is just a form of type checker 
