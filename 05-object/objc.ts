@@ -16,8 +16,7 @@ createUser({name: 'John', isPaid:false, email:"enam@gmail.com"})
 //after following this your question might be how about a function returning an object
 //this step below helps
 
-
-const createBuyer= ():{}=>{
+const createBuyer = ():{}=>{
   return {}
 }
  
